@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @capgeti
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning libgdx
-- 📫 How to reach me capgeti@gmail.com
+
